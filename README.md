@@ -1,5 +1,6 @@
 # AirBnB clone - The console
- <img src="img/hbnb_screenshot.png" alt="cover" />
+
+![hbnb_screenshot](https://github.com/vtl-28/AirBnB_clone/assets/73833164/18d3a9a6-d84c-4179-adc5-b16078bbbbc7)
 
 ## Description
 
