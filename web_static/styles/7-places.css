@@ -1,0 +1,22 @@
+div.container section.places h1{
+    font-size: 30px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+}
+div.container section.places div.articles{
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div.container section.places article{
+    width: 390px;
+    margin: 20px;
+    padding: 20px;
+    border: #FF5A5F 1px solid;
+    border-top: 4px solid rgba(255, 90, 95, 0.2);
+    border-bottom: 4px solid rgba(255, 90, 95, 0.2);
+    border-radius: 4px;
+    text-align: center;
+    font-size: 30px;
+}
